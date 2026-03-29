@@ -27,9 +27,19 @@ Sistemdeki sınıfların kalıtım (Inheritance), kapsülleme (Encapsulation) ve
 ![UML Diagram](images/uml_diagram.png)
 
 ### 3. Veri Akış Diyagramları (DFD)
-Kullanıcının sisteme girişinden randevu oluşturma ve makine durumu güncelleme adımlarına kadar olan veri akışı, 0., 1. ve 2. seviye DFD'ler ile analiz edilmiştir.
-![DFD Level 0](images/dfd_level_0.png)
+Kullanıcının sisteme girişinden randevu oluşturma ve makine durumu güncelleme adımlarına kadar olan veri akışı detaylı olarak analiz edilmiştir.
 
+**Bölüm 1:**
+![DFD Part 1](images/dfd_1.png)
+
+**Bölüm 2:**
+![DFD Part 2](images/dfd_2.png)
+
+**Bölüm 3:**
+![DFD Part 3](images/dfd_3.png)
+
+**Bölüm 4:**
+![DFD Part 4](images/dfd_4.png)
 ### 4. Ardışıl Diyagram (Sequence Diagram)
 Bir randevu oluşturma işleminin (Appointment Creation) nesneler ve fonksiyonlar arasındaki zaman sırasına göre çalışma mantığı detaylandırılmıştır.
 ![Sequence Diagram](images/sequence_diagram.png)
