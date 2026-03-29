@@ -55,6 +55,6 @@ Bir randevu oluşturma işleminin (Appointment Creation) nesneler ve fonksiyonla
 ## ⚙️ Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için:
-1. Repoyu klonlayın: `git clone https://github.com/KULLANICI_ADIN/Laundry-Reservation-System.git`
+1. Repoyu klonlayın: `git clone https://github.com/oytunutkan/laundry-reservation-system.git`
 2. Tercih ettiğiniz IDE (IntelliJ IDEA veya Eclipse) ile projeyi açın.
 3. `Main.java` dosyasını çalıştırarak arayüze erişim sağlayın. Veriler `appointments.dat`, `customers.dat` vb. dosyalar üzerinden otomatik olarak yüklenecek ve saklanacaktır.
