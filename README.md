@@ -49,12 +49,12 @@ Bir randevu oluşturma işleminin (Appointment Creation) nesneler ve fonksiyonla
 **Programlama Dili:** Java (JDK)
 **Arayüz Geliştirme:** Java Swing, AWT
 **Mimari Yaklaşım:** Object-Oriented Programming (OOP)
-* [cite_start]**Veri Depolama:** File I/O & Serialization (`.dat` ve `.txt` formatları)
+**Veri Depolama:** File I/O & Serialization (`.dat` ve `.txt` formatları)
 **Hata Yönetimi:** Özelleştirilmiş Exception Sınıfları (`IDException`, `NoAvailableMachine`, `YetersizBakiye`)
 
 ## ⚙️ Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için:
 1. Repoyu klonlayın: `git clone https://github.com/KULLANICI_ADIN/Laundry-Reservation-System.git`
-2. [cite_start]Tercih ettiğiniz IDE (IntelliJ IDEA veya Eclipse) ile projeyi açın[cite: 19].
+2. Tercih ettiğiniz IDE (IntelliJ IDEA veya Eclipse) ile projeyi açın.
 3. `Main.java` dosyasını çalıştırarak arayüze erişim sağlayın. Veriler `appointments.dat`, `customers.dat` vb. dosyalar üzerinden otomatik olarak yüklenecek ve saklanacaktır.
