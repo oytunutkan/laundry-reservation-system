@@ -2,7 +2,7 @@
 
 Bu proje, geleneksel ve manuel çamaşırhane süreçlerini dijitalleştirmek amacıyla geliştirilmiş, masaüstü tabanlı ve nesne yönelimli (OOP) bir otomasyon sistemidir. Sadece bir kodlama projesi olmanın ötesinde; gereksinim analizi, fizibilite etüdü ve uçtan uca sistem mimarisi (SDLC) tasarımı süreçlerini barındıran kapsamlı bir yazılım mühendisliği uygulamasıdır. 
 
-Sistem geliştirilirken yazılım yaşam döngüsü modellerinden **Şelale (Waterfall) Modeli** temel alınmıştır.
+Sistem geliştirilirken yazılım yaşam döngüsü modellerinden **Şelale (Waterfall) Modeli** temel alınmıştır. 
 
 ## 🚀 Öne Çıkan Özellikler
 
